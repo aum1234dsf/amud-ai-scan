@@ -57,7 +57,7 @@ public class MainActivity extends AppCompatActivity implements TextToSpeech.OnIn
     private static final int REQ_RECORD_AUDIO = 101;
 
     // TODO: Replace with your own key, or better yet, point this at your own backend proxy.
-    private static final String GEMINI_API_KEY = "YOUR_GEMINI_API_KEY_HERE";
+    private static final String GEMINI_API_KEY = "AQ.Ab8RN6LzPfGRWn3Qf_Bsau7fSvCh0YPv_x-0wxkRJaank2utQw";
     private static final String GEMINI_ENDPOINT =
             "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key="
                     + GEMINI_API_KEY;
